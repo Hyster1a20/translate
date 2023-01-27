@@ -1,7 +1,7 @@
 import translate 
 from translate import Translator
 
-#base + res (variables) 
+#base+res (variables) 
 #translator azbi rah mne lang to lang 
 #from_langage , to_langage
 
