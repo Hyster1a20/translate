@@ -9,6 +9,4 @@ base = Translator(from_lang="English",to_lang="Spanish")
 
 res = base.translate("hello") 
 
-#u can change the word u want to translate in the fx base.translate() 
-
 print(res)
